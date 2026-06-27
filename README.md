@@ -31,7 +31,7 @@ The goal is to think like a Product Manager—not just a product user.
 * Feature & trade-off analysis
 * Product assumptions and risks
 * Competitive positioning
-* Product moat[
+* Product moat
 * Strategic recommendations
 * Future roadmap opportunities
 
