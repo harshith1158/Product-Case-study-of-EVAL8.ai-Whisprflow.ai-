@@ -37,7 +37,7 @@ The goal is to think like a Product Manager—not just a product user.
 
 📄 **Read here:**
 
-`/Eval8_Product_Analysis_Strategic_Review.pdf`
+`Product Analysis & Strategic Review of Eval8.ai..pdf`
 
 ---
 
@@ -59,7 +59,7 @@ The goal is to think like a Product Manager—not just a product user.
 
 📄 **Read here:**
 
-`/WisprFlow_Product_Analysis_Strategic_Review.pdf`
+`Wispr Flow Product Analysis & Strategic Review.pdf`
 
 ---
 
