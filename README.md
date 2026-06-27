@@ -31,13 +31,13 @@ The goal is to think like a Product Manager—not just a product user.
 * Feature & trade-off analysis
 * Product assumptions and risks
 * Competitive positioning
-* Product moat
+* Product moat[
 * Strategic recommendations
 * Future roadmap opportunities
 
 📄 **Read here:**
 
-`Product Analysis & Strategic Review of Eval8.ai..pdf`
+(https://github.com/harshith1158/Product-Case-study-of-EVAL8.ai-Whisprflow.ai-/blob/main/Product%20Analysis%20%26%20Strategic%20Review%20of%20Eval8.ai..pdf)
 
 ---
 
@@ -50,7 +50,7 @@ The goal is to think like a Product Manager—not just a product user.
 * Product positioning
 * Core user problems
 * Persona analysis
-* User journeys
+* User journeys[
 * Feature trade-offs
 * Product risks
 * Competitive landscape
@@ -59,7 +59,7 @@ The goal is to think like a Product Manager—not just a product user.
 
 📄 **Read here:**
 
-`Wispr Flow Product Analysis & Strategic Review.pdf`
+(https://github.com/harshith1158/Product-Case-study-of-EVAL8.ai-Whisprflow.ai-/blob/main/Wispr%20Flow%20Product%20Analysis%20%26%20Strategic%20Review.pdf)
 
 ---
 
