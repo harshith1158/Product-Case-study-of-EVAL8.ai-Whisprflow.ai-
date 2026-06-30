@@ -19,7 +19,7 @@ The goal is to think like a Product Manager—not just a product user.
 
 # 📚 Available Product Reviews
 
-## 1. Eval8.ai – Product Analysis & Strategic Review
+## 1. Eval8.ai (https://www.eval8.ai/) – Product Analysis & Strategic Review
 
 **Category:** AI Hiring & Talent Assessment
 
@@ -41,7 +41,7 @@ The goal is to think like a Product Manager—not just a product user.
 
 ---
 
-## 2. Wispr Flow – Product Analysis & Strategic Review
+## 2. Wispr Flow (https://wisprflow.ai/) – Product Analysis & Strategic Review
 
 **Category:** AI Productivity / Voice AI
 
